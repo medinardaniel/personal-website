@@ -298,11 +298,11 @@ img{
     color: #c2c2c2;
 }
 
-@media (max-width: 200px) {
-    .main__container {
-      flex-direction: column;
-    }
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
   }
+}
 
 /* ============ PROJECTS SECTION ============ */
 
