@@ -250,7 +250,7 @@ body {
 
 .email {
     position: absolute;
-    right: 410px;
+    right: 417px;
     top: 287px;
     height: 80px;
     color: #999999;
@@ -258,7 +258,7 @@ body {
 
 .intro__text {
     position: absolute;
-    right: 170px;
+    right: 190px;
     top: 320px;
     height: 80px;
 }
@@ -274,7 +274,7 @@ img{
     position: absolute;
     width: 100%; /* Full-width */
     overflow: auto; /* Overflow due to float */
-    right: -75px;
+    right: -55px;
 }
 
 .icon__container a{
