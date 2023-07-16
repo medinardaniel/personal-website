@@ -258,7 +258,7 @@ body {
 
 .intro__text {
     position: absolute;
-    right: 190px;
+    right: 210px;
     top: 320px;
     height: 80px;
 }
@@ -274,7 +274,7 @@ img{
     position: absolute;
     width: 100%; /* Full-width */
     overflow: auto; /* Overflow due to float */
-    right: -55px;
+    right: -47px;
 }
 
 .icon__container a{
