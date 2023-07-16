@@ -274,7 +274,7 @@ img{
     position: absolute;
     width: 100%; /* Full-width */
     overflow: auto; /* Overflow due to float */
-    right: -47px;
+    right: -55px;
 }
 
 .icon__container a{
